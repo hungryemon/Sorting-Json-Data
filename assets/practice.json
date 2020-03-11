@@ -1,0 +1,50 @@
+[
+  {
+    "1": {
+      "name": "Shahed Emon",
+      "win_rate": "98.7%"
+    }
+  },
+  {
+    "2": {
+      "name": "Mustakim Nahid",
+      "win_rate": "88.7%"
+    }
+  },
+  {
+    "3": {
+      "name": "Imtiaz Rizan",
+      "win_rate": "72.3%"
+    }
+  },
+  {
+    "4": {
+      "name": "Ishtiak Rongon",
+      "win_rate": "52.6%"
+    }
+  },
+  {
+    "5": {
+      "name": "Sazzad Evan",
+      "win_rate": "99.2%"
+    }
+  },
+  {
+    "6": {
+      "name": "Tanjil Dewan",
+      "win_rate": "91.1%"
+    }
+  },
+  {
+    "7": {
+      "name": "Rayhan Hossain",
+      "win_rate": "76.9%"
+    }
+  },
+  {
+    "8": {
+      "name": "SK Rabby",
+      "win_rate": "95.4%"
+    }
+  }
+]
