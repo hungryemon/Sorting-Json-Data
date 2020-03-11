@@ -1,6 +1,6 @@
-# json_parsing
+# Json Sorting & View in Flutter Table
 
-Parsing JSON and sorting JSON data
+The task is to view match-up in a table where highest win rate person  matches against lowest win rate person. Followed by 2nd highest win rate person vs 2nd lowest win rate person. So I did sort the data where object key was dynamic and showed in a table as the task was given.
 
 ## Getting Started
 
